@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0Doy1t_w)
 # Hello, GitHub!
 
 ## 🔍 Overview
@@ -24,15 +25,15 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to clone a repository to my desktop. I also learned how to commit and push my changes into Github.
 
 **I struggled with:** (repeat as needed)
-- .
+- I didn't end up struggling with anything in this assignment.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I did not require help from my intructor for this assignment.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
